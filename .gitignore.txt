@@ -1,0 +1,6 @@
+*.aliases
+*.lvlps
+*.lvobjcache
+*.lvlibp
+*.lvdialog
+*.lvproj.bak
